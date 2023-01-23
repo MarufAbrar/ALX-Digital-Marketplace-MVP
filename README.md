@@ -1,1 +1,2 @@
 # ALX-Digital-Marketplace-MVP
+It allows users to buy and sell items online, and includes features such as product listings, user accounts, and a shopping cart. The platform is built using modern web technologies and is designed to be easily customizable and extensible. Whether you're looking to create your own online store or simply want to learn more about building digital marketplaces, this repository is a great starting point.
